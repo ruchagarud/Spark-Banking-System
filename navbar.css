@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+
+.nav-link{
+     font-size: 25px;
+     transition-duration: 0.4s;
+     padding: 1rem 1rem;
+     float: left;
+  
+  }
+  .navbar-brand{
+    font-size:30px;
+    margin-left:20px;
+    font-weight: bold;
+  }
+  .navbar-brand .nav-link:hover{
+    color: black;
+    
+  }

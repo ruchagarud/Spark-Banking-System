@@ -1,0 +1,48 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+	
+}
+body{
+	background-color: white;
+}
+h2{
+	font-size: 4rem;
+	color: #192d93;
+	margin: 4rem;
+	text-shadow: 2px 2px;
+}
+table{
+	
+	letter-spacing: 1.2px;
+	border-color: black;
+}
+td{
+	text-align: center;
+}
+th{
+	color: black;
+	font-size:2.5rem;
+	
+	
+}
+tr{
+	color: black;
+	font-size: 1.5rem;
+}
+button:hover{
+        background-color:#616C6F;
+        color: white;
+}
+button{
+	border:none;
+	background: #d9d9d9;
+	transition: 1.5s;
+}
+@media only screen and (orientation: portrait){
+	*{
+		letter-spacing: 1px;
+	}
+}  
